@@ -1,1 +1,1 @@
-# Class23Code
+# Box Class
